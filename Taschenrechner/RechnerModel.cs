@@ -11,7 +11,7 @@
     public class RechnerModel
     {
         public static double ObererGrenzwert { get { return 40000.0; } }
-        public static double UntererGrenzwert { get { return -10.0; } }
+        public static double UntererGrenzwert { get { return -900.0; } }
 
         public RechnerModel()
         {
